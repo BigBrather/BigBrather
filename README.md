@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👀 I’m interested in technology and travelling
-- 🌱 I’m job DevOps Engineeir
+- 👀 I’m interested in technology and traveling;
+- 🌱 I’m a DevOps Engineer
 - 💬 How to reach me:
-  - email: bolshakov.production@gmail.com
-  - telegram: https://t.me/bohdanbolshakov
-  - linkedin: https://www.linkedin.com/in/bohdan-bolshakov/
+  - Email: bolshakov.production@gmail.com
+  - Telegram: https://t.me/bohdanbolshakov
+  - LinkedIn: https://www.linkedin.com/in/bohdan-bolshakov/
